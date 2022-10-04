@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "997670235047",
+    "project_id": "driveu-747ff",
+    "storage_bucket": "driveu-747ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997670235047:android:716cbeef2afe9d33306482",
+        "android_client_info": {
+          "package_name": "com.example.driveu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997670235047-jca6u33a59e24k014dp5nra2hjh8dc99.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.driveu",
+            "certificate_hash": "4c68900cc42738c43f44a9d74afc68ba340c0eb9"
+          }
+        },
+        {
+          "client_id": "997670235047-c9ui1qnsr64uj7spimoma9prr70vm8uq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKZwdae4C5iiy3O-KtouwQ2mpOLY4yVLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997670235047-c9ui1qnsr64uj7spimoma9prr70vm8uq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
